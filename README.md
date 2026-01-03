@@ -4,7 +4,7 @@ C++20 implementation of the LC-3 virtual machine, this emulates the LC-3 hardwar
 
 ## Overview
 
-The LC-3 is a simple computer architecture used for education of assembly language and computer systems. What is simulated here is the memory, registers, and the instruction set; so binary programs compiled for the LC-3 are able to be executed.
+The LC-3 is a simple computer architecture used for education of assembly language and computer systems. What is simulated here is the memory, registers, and the instruction set; so binary programs compiled for the LC-3 should be able to be executed.
 
 ## Features
 
