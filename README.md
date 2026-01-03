@@ -1,4 +1,4 @@
-# LC-3 Virtual Machine (C++20 Windows Edition)
+# LC-3 Virtual Machine
 
 C++20 implementation of the LC-3 virtual machine, this emulates the LC-3 hardware therefore allowing you to run assembly programs (like the game 2048 provided as example) on Windows only for now.
 
