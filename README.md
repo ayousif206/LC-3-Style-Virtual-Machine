@@ -8,10 +8,10 @@ The LC-3 is a simple computer architecture used for education of assembly langua
 
 ## Features
 
-* **65,536 Memory Locations** (16-bit address space).
-* **10 Registers**: 8 General Purpose (R0-R7), Program Counter (PC), and Condition Flags (COND).
-* **Full Instruction Set**: Implements all standard opcodes (`ADD`, `AND`, `BR`, `JMP`, `JSR`, `LD`, `LDI`, `LDR`, `LEA`, `NOT`, `ST`, `STI`, `STR`, `TRAP`).
-* **Trap Routines**: Handles I/O operations like `PUTS` (string output) and `GETC` (character input).
+* **65,536 Memory Locations** (16-bit address space)
+* **10 Registers**: 8 General Purpose (R0-R7), Program Counter (PC), and Condition Flags (COND)
+* **Full Instruction Set**: Implements all standard opcodes (`ADD`, `AND`, `BR`, `JMP`, `JSR`, `LD`, `LDI`, `LDR`, `LEA`, `NOT`, `ST`, `STI`, `STR`, `TRAP`)
+* **Trap Routines**: Handles I/O operations like `PUTS` (string output) and `GETC` (character input)
 
 ## Prerequisites
 
