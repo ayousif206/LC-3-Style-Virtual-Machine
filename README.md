@@ -20,4 +20,4 @@ The LC-3 is a simple computer architecture used for education of assembly langua
 
 ## Quick Start
 
-To use this program, compile it then run it in terminal with 2048.obj as an argument or any other assemly program you want to test.
+To use this program, compile it then run it in terminal with 2048.obj as an argument or any other assembly program you want to test.
